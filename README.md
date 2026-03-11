@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Seba1119/Seba1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Seba Albasaleh**  
+Full-Stack Software Developer based in the Netherlands.
 
-Here are some ideas to get you started:
+- 🔭 **Who I am:** Graduate from **HU University of Applied Sciences Utrecht (Software Engineering)** with experience building production-level full-stack applications across government and enterprise environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **What I'm currently working on:**  
+  Full-stack developer at **Competa IT**, contributing to the **Manon Validator Audit Tool** used by Dutch government teams to analyze accessibility, technical debt, and code quality.
+
+- 🛠 **Tools & Technologies:**  
+  **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Vue  
+  **Backend:** Node.js, Spring Boot, REST APIs  
+  **Data:** MySQL, MongoDB  
+  **DevOps:** Docker, GitHub Actions, CI/CD  
+  **Testing:** Jest, Vitest
+
+- 📫 **Reach me:**  
+  LinkedIn → https://www.linkedin.com/in/seba-a-a98621322
