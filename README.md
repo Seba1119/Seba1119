@@ -9,8 +9,8 @@ Full-Stack Software Developer based in the Netherlands.
   Full-stack developer at **Competa IT**, contributing to the **Manon Validator Audit Tool** used by Dutch government teams to analyze accessibility, technical debt, and code quality.
 
 - 🛠 **Tools & Technologies:**  
-  **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Vue  
-  **Backend:** Node.js, Spring Boot, REST APIs  
+  **Frontend:** React, Next.js, TypeScript, JavaScript 
+  **Backend:** Node.js, Spring Boot, REST APIs , python 
   **Data:** MySQL, MongoDB  
   **DevOps:** Docker, GitHub Actions, CI/CD  
   **Testing:** Jest, Vitest
