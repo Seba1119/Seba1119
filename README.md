@@ -15,5 +15,8 @@ Full-Stack Software Developer based in the Netherlands.
   **DevOps:** Docker, GitHub Actions, CI/CD  
   **Testing:** Jest, Vitest
 
+- 🗂️ **All my side projects:**
+  https://github.com/Seba1119/All-Projects  
+
 - 📫 **Reach me:**  
   LinkedIn → https://www.linkedin.com/in/seba-a-a98621322
