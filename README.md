@@ -10,7 +10,7 @@ Full-Stack Software Developer based in the Netherlands.
 
 - 🛠 **Tools & Technologies:**  
   **Frontend:** React, Next.js, TypeScript, JavaScript  
-  **Backend:** Node.js, Spring Boot, REST APIs , python 
+  **Backend:** Node.js, Spring Boot, REST APIs , python  
   **Data:** MySQL, MongoDB  
   **DevOps:** Docker, GitHub Actions, CI/CD  
   **Testing:** Jest, Vitest
